@@ -216,7 +216,7 @@ If you're just getting started with ServiceNow, focusing on Service Portal is a 
 
 - [Interactive Flashcards](../flashcards/SN-SP-interactive-flashcards.html) - Quick study aids covering key concepts
 - [ServiceNow Docs: Service Portal](https://docs.servicenow.com/bundle/sandiego-servicenow-platform/page/build/service-portal/concept/c_ServicePortal.html)
-- [Medium: Service Portal](https://docs.servicenow.com/bundle/sandiego-servicenow-platform/page/build/service-portal/concept/c_ServicePortal.html)
+- [Medium: Service Portal](https://medium.com/@srashti1.sharma/servicenow-service-portal-a-beginners-guide-1421a65456d1)
 
 
 *These flashcards are a quick and fun way to refresh key topics. I created them with help from Claude.ai while exploring its capabilities - turns out, it's great for turning notes into interactive learning tools!*
