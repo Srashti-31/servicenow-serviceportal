@@ -41,8 +41,6 @@ This distinction matters because Service Portal is optimized for simplicity and 
 
 ## Service Portal Architecture
 
-![Service Portal Architecture](../images/architecture.png)
-
 Service Portal is built on a few fundamental components:
 
 ### 1. Portals
@@ -218,6 +216,7 @@ If you're just getting started with ServiceNow, focusing on Service Portal is a 
 
 - [Interactive Flashcards](../flashcards/SN-SP-interactive-flashcards.html) - Quick study aids covering key concepts
 - [ServiceNow Docs: Service Portal](https://docs.servicenow.com/bundle/sandiego-servicenow-platform/page/build/service-portal/concept/c_ServicePortal.html)
+- [Medium: Service Portal](https://docs.servicenow.com/bundle/sandiego-servicenow-platform/page/build/service-portal/concept/c_ServicePortal.html)
 
 
-*These flashcards are my personal takeaways from the Now Learning: Service Portal Fundamentals Course. I created the artifacts with help from Claude.*
+*These flashcards are a quick and fun way to refresh key topics. I created them with help from Claude.ai while exploring its capabilities - turns out, it's great for turning notes into interactive learning tools!*
